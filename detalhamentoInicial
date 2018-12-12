@@ -1,0 +1,5 @@
+Foi instalado o Express, nodemon e o body-parser. 
+Express - Framework projetado para construir aplicações web e APIs.
+Nodemon – Serve para reiniciar o servidor automaticamente toda vez que uma alteração for feita e 
+salva no código, assim não precisamos parar toda vez o servidor para atualizar algum trecho de código.
+Body-parser – converte os dados de uma requisição.
