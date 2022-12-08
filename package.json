@@ -9,9 +9,9 @@
   "author": "Nathália Assis",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongodb": "^3.1.10",
     "nodemon": "^1.18.7"
   }
